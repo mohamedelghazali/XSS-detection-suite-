@@ -55,6 +55,6 @@ Apart from that, XSStrike has crawling, fuzzing, parameter discovery, WAF detect
 - Intelligent payload generator
 - Complete HTTP Support
 - Bruteforce payloads from a file
-- Powered by [Photon](https://github.com/s0md3v/Photon), [Zetanize](https://github.com/s0md3v/zetanize) and [Arjun](https://github.com/s0md3v/Arjun)
+
 
 
